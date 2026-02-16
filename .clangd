@@ -1,0 +1,2 @@
+CompileFlags:
+  Add: [-I/home/ropptar/Projects/littlegame/external/glad/include]
